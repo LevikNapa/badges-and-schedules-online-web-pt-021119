@@ -48,6 +48,7 @@ def printer(array)
   end
 end 
 
+printer("Edsger")
 
 
 
